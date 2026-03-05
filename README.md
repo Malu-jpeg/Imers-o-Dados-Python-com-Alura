@@ -6,6 +6,7 @@ Projeto desenvolvido durante a Imersão de Dados da Alura, utilizando Python par
 
  📌 Sobre o projeto
 Este projeto tem como objetivo explorar dados utilizando Python, aplicando conceitos de análise de dados, manipulação de datasets e visualização de informações.
+📌 Dataset público de imersão
 
  🚀 Tecnologias utilizadas
 - Python
