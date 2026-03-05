@@ -1,5 +1,3 @@
-Analise de dados com python na Alura
-
 Imersão de Dados com Python - Alura
 
 Projeto desenvolvido durante a Imersão de Dados da Alura, utilizando Python para análise e manipulação de dados.
